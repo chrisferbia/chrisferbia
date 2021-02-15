@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrisferbia
+- 👋 Hi, I’m Chris Ferbianto @chrisferbia
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Frontend such as HTML, CSS, JavaScript
 
